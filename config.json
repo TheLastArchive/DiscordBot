@@ -1,0 +1,34 @@
+{
+    "clientId": "Your client ID here",
+	"guildId": "Your guild ID here",
+    "token": "Your token here",
+    "emojis": {
+        "mercedes": "<:mercedes:903573680230137876>",
+        "red_bull": "<:redbull:903573680280461312>",
+        "mclaren": "<:mclaren:903573680288841769>",
+        "ferrari": "<:ferrari:903573680221724692>",
+        "alpine": "<:alpine:903573680087511070>",
+        "alphatauri": "<:alphatauri:903573680150413332>",
+        "aston_martin": "<:astonmartin:903573680095920129>",
+        "williams": "<:williams:903573680318218300>",
+        "alfa": "<:alfaromeo:903573680083304449>",
+        "haas": "<:haas:903573680322379776>",
+        
+        "Thai" : ":flag_th:",
+        "Danish": ":flag_dk:",
+        "Chinese": ":flag_cn:",
+        "British": ":flag_gb:",
+        "Finnish": ":flag_fi:",
+        "Dutch": ":flag_nl:",
+        "Mexican": ":flag_mx:",
+        "Australian": ":flag_au:",
+        "Canadian": ":flag_ca:",
+        "German": ":flag_de:",
+        "Italian": ":flag_it:",
+        "Monegasque": ":flag_mc:",
+        "Spanish": ":flag_es:",
+        "French": ":flag_fr:",
+        "Japanese": ":flag_jp:",
+        "Russian": "<:flag_raf:903391003694743563>"
+    }
+}

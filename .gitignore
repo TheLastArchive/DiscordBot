@@ -1,4 +1,3 @@
-config.json
 node_modules/
 Procfile
 commands/beatbox.js
