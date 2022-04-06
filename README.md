@@ -10,23 +10,25 @@ This is a public-friendly version of the repo without any sensitive information 
 # Commands
 
 
-**Server**
+**Server**:
 Lists some details about the server
 
 **Cat / Doggo**:
 Gets a random cat or dog image from the related subreddits.
 
-**Choose**
+**Choose**:
 Give a list of options and the bot will pick a random choice for you
 
-**Coin**
+**Coin**:
 Heads or tails?
 
-**Random Number**
+**Random Number**:
 Picks a random number from 1 and a user chosen number
+
 
 **FORMULA 1 COMMANDS:**
 Uses the [Ergast API](https://ergast.com/mrd/) to pull Formula 1 data for the respective command.
+
 
 **Schedule**: The schedule for the current season
 
