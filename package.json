@@ -1,0 +1,35 @@
+{
+  "name": "gamer-aquarium-bot",
+  "version": "1.0.0",
+  "description": "bot lol",
+  "main": "index.js",
+  "engines": {
+    "node": "16.x"
+  },
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdl-rajesh/gamer-aquarium-bot.git"
+  },
+  "author": "cdl-rajesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdl-rajesh/gamer-aquarium-bot/issues"
+  },
+  "homepage": "https://github.com/cdl-rajesh/gamer-aquarium-bot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "0.1.0-canary.0",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.2.0",
+    "node-fetch": "^2.6.5",
+    "node-schedule": "^2.1.0",
+    "snekfetch": "^4.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
