@@ -16,7 +16,7 @@ Lists some details about the server
 **Cat / Doggo**:
 Gets a random cat or dog image from the related subreddits.
 
-![Doggo command example](https://imgur.com/a/juSb4Yv.png "Doggo command example")
+![Doggo command example](https://imgur.com/a/juSb4Yv "Doggo command example")
 
 **Choose**:
 Give a list of options and the bot will pick a random choice for you
