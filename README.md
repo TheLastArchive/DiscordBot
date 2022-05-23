@@ -16,7 +16,7 @@ Lists some details about the server
 **Cat / Doggo**:
 Gets a random cat or dog image from the related subreddits.
 
-![Doggo command example](<blockquote class="imgur-embed-pub" lang="en" data-id="a/vo3MvTO" data-context="false" ><a href="//imgur.com/a/vo3MvTO"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> "Doggo command example")
+![Doggo command example](https://imgur.com/vo3MvTO "Doggo command example")
 
 **Choose**:
 Give a list of options and the bot will pick a random choice for you
