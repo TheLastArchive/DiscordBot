@@ -4,7 +4,7 @@ A simple Discord bot for my friend group server.
 
 The bot is written in [NodeJS](https://nodejs.org/en/) using the [DiscordJS](https://discord.js.org/#/) module. This bot was developed in collaboration with [a friend](https://github.com/cdl-rajesh)
 
-This is a public-friendly version of the repo without any sensitive information that I will do my best to keep updated as the bot is developed over time.
+This is a public-friendly version of the repo without any sensitive information. I will do my best to keep this repo updated as the bot is developed over time.
 
 
 # Commands
