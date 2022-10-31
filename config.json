@@ -2,6 +2,8 @@
     "clientId": "Your client ID here",
 	"guildId": "Your guild ID here",
     "token": "Your token here",
+    "bitlyToken": "Your token here",
+    "bitlyGUID": "Your GUID here",
     "emojis": {
         "mercedes": "<:mercedes:903573680230137876>",
         "red_bull": "<:redbull:903573680280461312>",
