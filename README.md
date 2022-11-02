@@ -28,7 +28,7 @@ Heads or tails?
 Picks a random number from 1 and a user chosen number
 
 **Short Link**:
-Shortens a link that may be just long enough to be annoying
+Shortens a link that is just long enough to be annoying
 
 **Deals**:
 Scrapes [Deals.gg](https://gg.deals) to get some of the game deals from the front page.
