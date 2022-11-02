@@ -27,10 +27,10 @@ Heads or tails?
 **Random Number**:
 Picks a random number from 1 and a user chosen number
 
-**Short Link**
+**Short Link**:
 Shortens a link that may be just long enough to be annoying
 
-**Deals**
+**Deals**:
 Scrapes [Deals.gg](https://gg.deals) to get some of the game deals from the front page.
 
 ![Deals command example](https://imgur.com/cngUSUf.png "Deals command example")
